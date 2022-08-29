@@ -51,7 +51,8 @@ bool  ListInsert(LinkList *L,int i ,ElemType e){
         p = p->next;
         j++;
     }
-    InsertNextNode(*L,e);
+    InsertNextNode(p,e);
+    return true;
 
 }
 //前插操作:在p结点之前插入元素e
