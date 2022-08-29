@@ -54,4 +54,4 @@ add_executable(question2-reverse linear/linkedlist/applications/question3-revers
 add_executable(question1-delRecursion linear/linkedlist/applications/question1-delRecursion.c)
 add_executable(question2-delSame linear/linkedlist/applications/question2-delSame.c)
 add_executable(question5-Inverse linear/linkedlist/applications/question5-Inverse.c)
-add_executable(tree tree/public-tree/tree.c)
+add_executable(LinkedTree tree/public-tree/linked-tree/LinkedTree.c)
