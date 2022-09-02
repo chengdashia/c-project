@@ -1,6 +1,7 @@
 //
 // Created by Serendipity on 2022/8/29.
 //
+
 #include <stdio.h>
 #define MAX_TREE_SIZE 100              //树中最多结点数
 typedef int ELemType;

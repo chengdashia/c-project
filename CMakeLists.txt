@@ -55,3 +55,9 @@ add_executable(question1-delRecursion linear/linkedlist/applications/question1-d
 add_executable(question2-delSame linear/linkedlist/applications/question2-delSame.c)
 add_executable(question5-Inverse linear/linkedlist/applications/question5-Inverse.c)
 add_executable(LinkedTree tree/public-tree/linked-tree/LinkedTree.c)
+
+add_executable(unionSet1 tree/union-set/unionSet1.c)
+add_executable(unionSetOptimization tree/union-set/unionSetOptimization.c)
+add_executable(unionSet-compressionPath tree/union-set/unionSet-compressionPath.c)
+add_executable(tree tree/public-tree/seqTree/tree.c)
+add_executable(application6-sort linear/linkedlist/applications/application6-sort.c)
